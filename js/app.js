@@ -2,8 +2,6 @@
 
 
 let myCounter = parseInt(counter.textContent);
-//let prevBtn = document.querySelector(".prevBtn");
-//let nextBtn = document.querySelector(".nextBtn");
 
 update = function (valor) {
     let counter = document.querySelector("#counter");
